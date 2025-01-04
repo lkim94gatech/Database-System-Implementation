@@ -1,7 +1,3 @@
-# Database-System-Implementation
-
-
-
 # Flat-File Database Management System
 
 ## Project Overview
